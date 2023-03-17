@@ -99,4 +99,5 @@ while True:
     if key == ord('q'):
         break
             
+print("helo")
     #(480, 640, 3)
